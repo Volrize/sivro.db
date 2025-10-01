@@ -1,0 +1,35 @@
+{
+  "name": "sivro.db",
+  "version": "1.0.0",
+  "description": "A lightweight, feature-rich JSON-based database module for Node.js with 37+ functions including encryption, import/export, search, and math operations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "database",
+    "json",
+    "storage",
+    "lightweight",
+    "encryption",
+    "import",
+    "export",
+    "search",
+    "nodejs",
+    "zero-dependencies"
+  ],
+  "author": "Kerem (Volrize)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Volrize/sivro.db.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Volrize/sivro.db/issues"
+  },
+  "homepage": "https://github.com/Volrize/sivro.db#readme",
+  "engines": {
+    "node": ">=12.0.0"
+  }
+}
