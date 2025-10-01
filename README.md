@@ -29,7 +29,7 @@ cd sivro.db
 ## 🚀 Quick Start
 
 ```javascript
-const db = require('./index.js');
+const db = require('sivro.db');
 
 // Basic operations
 db.set('user', 'Kerem');
